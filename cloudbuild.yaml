@@ -2,8 +2,7 @@ steps:
 
 - name: node:16
   entrypoint: npm
-  args:
-    - "npm test"
+  args: ['test']
 
 # - name: 'docker'
 #   args: ['build','-t','gcr.io/astral-host-350611/roteiros:latest','-t','gcr.io/astral-host-350611/roteiros:$SHORT_SHA','.']
