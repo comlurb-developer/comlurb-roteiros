@@ -18,6 +18,9 @@ steps:
   args: ['push','gcr.io/astral-host-350611/roteiros:$SHORT_SHA']
 
 - name: 'gcr.io/cloud-builders/kubectl'
+  args: ['delete', '-f', 'deployment-cadastra-roteiro.yaml']
+
+- name: 'gcr.io/cloud-builders/kubectl'
   args: ['apply', '-f', 'deployment-cadastra-roteiro.yaml']
   env:
   - 'CLOUDSDK_COMPUTE_REGION=southamerica-east1'
