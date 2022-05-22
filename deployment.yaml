@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cadastra-roteiro
+  labels:
+    app: cadastra-roteiro
+spec:
+  selector:
+    matchLabels:
+      app: cadastra-roteiro
+  template:
+    metadata:
+      labels:
+        app: cadastra-roteiro
+    spec:
+      containers:
+        - name: cadastra-roteiro
+          image: 'gcr.io/astral-host-350611/roteiros:latest'
+          ports:
+            - containerPort: 80
