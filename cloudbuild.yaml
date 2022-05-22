@@ -17,7 +17,7 @@ steps:
 # - name: 'docker'
 #   args: ['push','gcr.io/astral-host-350611/roteiros:$SHORT_SHA']
 
-- name: 'kubectl'
+- name: 'gcr.io/cloud-builders/kubectl'
   args: [
     'set',
     'image',
