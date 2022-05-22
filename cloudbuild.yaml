@@ -20,5 +20,5 @@ steps:
 - name: 'gcr.io/cloud-builders/kubectl'
   args: ['get','pods']
   env:
-    - 'CLOUDSDK_COMPUTE_ZONE=southamerica-east1'
-    - 'CLOUDSDK_CONTAINER_CLUSTER=comlurb-cluster'
+  - 'CLOUDSDK_COMPUTE_ZONE=southamerica-east1'
+  - 'CLOUDSDK_CONTAINER_CLUSTER=comlurb-cluster'
