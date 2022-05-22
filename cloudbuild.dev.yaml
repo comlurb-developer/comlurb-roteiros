@@ -3,11 +3,11 @@ steps:
 - name: node:16
   entrypoint: npm
   args: ['install']
-rrr
+
 - name: node:16
   entrypoint: npm
   args: ['run','build']
-rrr
+
 - name: 'docker'
   args: ['build','-t','gcr.io/astral-host-350611/roteiros:latest','-t','gcr.io/astral-host-350611/roteiros:$SHORT_SHA','.']
 
