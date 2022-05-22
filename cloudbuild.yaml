@@ -1,21 +1,21 @@
 steps:
 
-# - name: node:16
-#   entrypoint: npm
-#   args: ['install']
+- name: node:16
+  entrypoint: npm
+  args: ['install']
 
-# - name: node:16
-#   entrypoint: npm
-#   args: ['run','build']
+- name: node:16
+  entrypoint: npm
+  args: ['run','build']
 
-# - name: 'docker'
-#   args: ['build','-t','gcr.io/astral-host-350611/roteiros:latest','-t','gcr.io/astral-host-350611/roteiros:$SHORT_SHA','.']
+- name: 'docker'
+  args: ['build','-t','gcr.io/astral-host-350611/roteiros:latest','-t','gcr.io/astral-host-350611/roteiros:$SHORT_SHA','.']
 
-# - name: 'docker'
-#   args: ['push','gcr.io/astral-host-350611/roteiros:latest']
+- name: 'docker'
+  args: ['push','gcr.io/astral-host-350611/roteiros:latest']
 
-# - name: 'docker'
-#   args: ['push','gcr.io/astral-host-350611/roteiros:$SHORT_SHA']
+- name: 'docker'
+  args: ['push','gcr.io/astral-host-350611/roteiros:$SHORT_SHA']
 
 - name: 'gcr.io/cloud-builders/kubectl'
   args: ['set', 'image', 'deployment.apps/cadastra-roteiro', 'cadastra-roteiro=gcr.io/astral-host-350611/roteiros:latest']
