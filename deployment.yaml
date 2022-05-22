@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: cadastra-roteiro
-          image: 'gcr.io/astral-host-350611/roteiros:a506be3'
+          image: 'gcr.io/astral-host-350611/roteiros:latest'
           ports:
             - containerPort: 80
