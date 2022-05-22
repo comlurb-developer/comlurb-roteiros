@@ -1,0 +1,43 @@
+stages:
+    - build 
+    - deploy
+    - docker
+
+cache:
+  paths:
+    - node_modules/
+
+buildando:
+
+  image: node:16
+  stage: build
+   
+  script:
+    - npm install
+#    - npm run build 
+
+
+deployando:
+
+  image: docker:latest
+  stage: deploy
+  services:
+    - docker:dind
+  script:
+    - ls 
+  #   - docker login -u kakalima76 -p Ni244265 
+  # script:
+  #   - docker build --pull -t kakalima76/cadastra-roteiro .
+  #   - docker push kakalima76/cadastra-roteiro
+
+dockerizando:
+  stage: docker
+  image:
+    name: bitnami/kubectl:latest
+    entrypoint: ['']
+  script:
+    - kubectl config get-contexts
+    - kubectl config use-context comlurb-fcz/roteiros:astral-host-350611-gitlab-agent
+    - kubectl get pods
+    - cd cadastra-roteiro && ls
+    - kubectl apply -f deployment.yaml

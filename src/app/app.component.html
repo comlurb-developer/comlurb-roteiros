@@ -1,0 +1,78 @@
+<div class="container-fluid">
+
+  <ul class="nav justify-content-end bg-dark" style="margin-top: 1em;">
+    <li class="nav-item">
+      <p class="nav-link" style="color: red;">Usuário: {{user}}</p>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" aria-current="page" href="#" (click)="logout()">logout</a>
+    </li>
+  </ul>
+
+  <div style="margin-top: 2em;">
+    <form class="example-form">
+      <div class="row">
+        <div class="col-6">
+          <mat-form-field class="example-full-width" appearance="legacy">
+            <mat-label>Código do roteiro</mat-label>
+            <input type="text" name="roteiro" [(ngModel)]="roteiro" matInput [formControl]="formRoteiro"
+              [matAutocomplete]="auto">
+            <mat-autocomplete #auto="matAutocomplete">
+              <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
+                {{option}}
+              </mat-option>
+            </mat-autocomplete>
+          </mat-form-field>
+        </div>
+      </div>
+    </form>
+  </div>
+
+  <div class="input-group mb-3" style="margin-top: 1rem;">
+    <input ngx-google-places-autocomplete #placesRef="ngx-places" [options]="tipos"
+      (onAddressChange)="handleAddressChange($event)" type="text" class="form-control" placeholder="informe um endereço"
+      aria-label="buscar endereço" aria-describedby="botão para buscar endereço" id="busca" name="logradouro"
+      [(ngModel)]="logradouro">
+  </div>
+
+  <mat-spinner diameter="70" *ngIf="!spinner" style="align-content: center;"></mat-spinner>
+
+  <table *ngIf="logradouro && spinner">
+    <tr>
+      <th style="width: 100%;">Logradouro</th>
+      <th style="text-align: center;">Ação</th>
+      <th style="text-align: center;">Ação</th>
+    </tr>
+    <tr>
+      <td style="width: 80%; border: solid 1px">{{logradouro}}</td>
+      <td style="width: 10%; border: solid 1px"><button type="button" class="btn btn-link"
+          (click)="delLogradouro()"><span style="color: red;">apagar</span></button></td>
+      <td style="width: 10%; border: solid 1px"><button type="button" class="btn btn-link"
+          (click)="confirmLogradouro()"><span style="color: green;">salvar</span></button></td>
+    </tr>
+    <tr>
+  </table>
+
+  <div class="map-container" *ngIf="logradouro && spinner">
+    <div class="map-frame">
+      <div id="map"></div>
+    </div>
+  </div>
+
+  <div *ngIf="roteiro && spinner && !logradouro">
+    <button type="button" class="btn btn-link" (click)="getLogradouros()">Locais da <span style="color: green;">{{roteiro}}</span>
+      cadastrados</button>
+
+    <div style="margin-top: 1rem;">
+      <ul class="list-group">
+        <li class="list-group-item" *ngFor="let parada of lista">{{ parada.Title }}</li>
+      </ul>
+    </div>
+
+  </div>
+
+
+
+
+
+</div>

@@ -1,0 +1,2874 @@
+[
+    {
+      "SiglaDoRoteiro": "46D14",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D15",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D05",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D04",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "13D57",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "20D15",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "42D11",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D27",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D26",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D10",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "16D49",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D29",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D48",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D28",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "10D08",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "55D44",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D55",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D45",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D54",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "06D07",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D12",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "05D02",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "09D15",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "05D03",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "09D12",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "06D20",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D00",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D19",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "46D00",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D26",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D27",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D01",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "18D23",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "17D25",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D02",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D03",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D01",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "16D35",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D42",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D34",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D43",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D27",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "24D07",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "24D27",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "24D06",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "16D26",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "21D24",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "21D25",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "21D14",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "21D15",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "08D08",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "08D16",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "08D15",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "08D01",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "05D04",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "05D05",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "09D17",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "09D14",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "09D06",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "09D05",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "14D07",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D06",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "04D14",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D15",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "26D02",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D33",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D33",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D32",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "33D04",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D05",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D18",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D19",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D03",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D02",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "03D07",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "02D00",
+      "SiglaSetor": "SG02C"
+    },
+    {
+      "SiglaDoRoteiro": "03D06",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "15D12",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D13",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "16D25",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D24",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "42D17",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D16",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D02",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D03",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "21D16",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "21D17",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "21D28",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "21D29",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "10D11",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "10D16",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "10D15",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "10D12",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "13D16",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "13D01",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "13D02",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "13D15",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "56D09",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "56D03",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "56D06",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "56D10",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "56D04",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "56D05",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "56D11",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "56D12",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "25D12",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D11",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D03",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D06",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "19D30",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D33",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D32",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D35",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "18D07",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D08",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D24",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "99D02",
+      "SiglaSetor": "FGI"
+    },
+    {
+      "SiglaDoRoteiro": "17D04",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D05",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "18D22",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "33D01",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D10",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D00",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D11",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "07D03",
+      "SiglaSetor": "SG07S"
+    },
+    {
+      "SiglaDoRoteiro": "20D22",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "07D02",
+      "SiglaSetor": "SG07S"
+    },
+    {
+      "SiglaDoRoteiro": "02D15",
+      "SiglaSetor": "SG02C"
+    },
+    {
+      "SiglaDoRoteiro": "02D15",
+      "SiglaSetor": "SG02C"
+    },
+    {
+      "SiglaDoRoteiro": "02D15",
+      "SiglaSetor": "SG02C"
+    },
+    {
+      "SiglaDoRoteiro": "20D19",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "20D16",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "13D04",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "13D03",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "20D02",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "20D01",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "20D11",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "42D15",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D14",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "24D28",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "42D19",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D07",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D06",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D18",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "12D12",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "12D05",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "12D11",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "12D06",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "13D06",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "13D05",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "56D26",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "25D19",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D20",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "10D10",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "25D21",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "55D59",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "26D07",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D08",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "18D14",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D13",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "26D57",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D58",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "17D35",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D36",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D31",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D09",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D32",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D08",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "13D25",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "13D26",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "20D17",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "42D21",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D12",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D13",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D20",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "24D14",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "24D21",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "24D15",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "24D22",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "03D01",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "03D00",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "10D19",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "10D03",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "10D20",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "04D09",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D08",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "14D10",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D03",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "15D01",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D00",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D14",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D15",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "20D21",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "13D24",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "19D18",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D20",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D21",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D23",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "26D10",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D09",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D15",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "18D31",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D32",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D03",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D04",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "01D03",
+      "SiglaSetor": "SG01P"
+    },
+    {
+      "SiglaDoRoteiro": "01D04",
+      "SiglaSetor": "SG01P"
+    },
+    {
+      "SiglaDoRoteiro": "01D02",
+      "SiglaSetor": "SG01P"
+    },
+    {
+      "SiglaDoRoteiro": "01D02",
+      "SiglaSetor": "SG01P"
+    },
+    {
+      "SiglaDoRoteiro": "01D02",
+      "SiglaSetor": "SG01P"
+    },
+    {
+      "SiglaDoRoteiro": "07D00",
+      "SiglaSetor": "SG07S"
+    },
+    {
+      "SiglaDoRoteiro": "02D01",
+      "SiglaSetor": "SG02C"
+    },
+    {
+      "SiglaDoRoteiro": "07D01",
+      "SiglaSetor": "SG07S"
+    },
+    {
+      "SiglaDoRoteiro": "16D01",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D00",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D31",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D30",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D44",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D45",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "04D03",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D00",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "31D07",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "31D01",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "31D08",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "31D06",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "13D23",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "20D18",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "20D04",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "20D03",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "12D14",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "12D13",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "11D13",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "10D05",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "11D14",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "13D19",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "70D04",
+      "SiglaSetor": "ND29A"
+    },
+    {
+      "SiglaDoRoteiro": "70D05",
+      "SiglaSetor": "ND29A"
+    },
+    {
+      "SiglaDoRoteiro": "13D20",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "19D50",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D49",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D49",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D07",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D06",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "26D20",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D31",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D30",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "46D19",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D18",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D11",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D10",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "26D03",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D11",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D03",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D03",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D03",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D03",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D04",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D12",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "33D12",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "18D18",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D17",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "16D04",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "42D24",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D25",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "16D05",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "04D04",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D05",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "05D07",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "05D06",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "05D10",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "05D15",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "05D11",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "22D11",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "22D10",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "22D02",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "22D05",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "25D08",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D07",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D14",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D15",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "06D11",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D10",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "18D27",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D15",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D16",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D28",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "19D24",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D29",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D10",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D05",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D02",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "33D23",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D22",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D08",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D09",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "01D01",
+      "SiglaSetor": "SG01P"
+    },
+    {
+      "SiglaDoRoteiro": "01D01",
+      "SiglaSetor": "SG01P"
+    },
+    {
+      "SiglaDoRoteiro": "02D02",
+      "SiglaSetor": "SG02C"
+    },
+    {
+      "SiglaDoRoteiro": "03D09",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "03D08",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "12D02",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "12D01",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "12D09",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "16D09",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D08",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "24D13",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "21D19",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "24D10",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "21D18",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "05D12",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "05D13",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "21D20",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "21D21",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "16D40",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D41",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "04D19",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D16",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D18",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D17",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "11D08",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "11D07",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "03D12",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "03D20",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "03D21",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "03D23",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "10D06",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "55D52",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D53",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D60",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "20D23",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "20D09",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "20D10",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "56D14",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "56D13",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "46D25",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D24",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D20",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D21",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D17",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D16",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D03",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D02",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "26D27",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D26",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "31D15",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "33D06",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D21",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D20",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "33D07",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "10D29",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "10D28",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "16D46",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D32",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D33",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D47",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "70D09",
+      "SiglaSetor": "ND29A"
+    },
+    {
+      "SiglaDoRoteiro": "70D11",
+      "SiglaSetor": "ND29A"
+    },
+    {
+      "SiglaDoRoteiro": "70D12",
+      "SiglaSetor": "ND29A"
+    },
+    {
+      "SiglaDoRoteiro": "14D05",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D22",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D08",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D23",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "13D21",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "13D22",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "06D01",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D14",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D04",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D13",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "14D30",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "22D15",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "22D12",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "22D09",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "22D06",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "31D12",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "31D03",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "31D02",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "31D11",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "15D03",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "55D56",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "15D02",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "55D57",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "46D28",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D22",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D23",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D29",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "19D19",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D22",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D16",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D25",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "26D51",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "19D01",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "17D07",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "33D15",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "17D06",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "33D14",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "17D18",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "33D17",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "17D17",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "33D16",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "07D05",
+      "SiglaSetor": "SG07S"
+    },
+    {
+      "SiglaDoRoteiro": "07D06",
+      "SiglaSetor": "SG07S"
+    },
+    {
+      "SiglaDoRoteiro": "07D04",
+      "SiglaSetor": "SG07S"
+    },
+    {
+      "SiglaDoRoteiro": "07D07",
+      "SiglaSetor": "SG07S"
+    },
+    {
+      "SiglaDoRoteiro": "12D16",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "12D15",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "24D03",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "24D02",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "24D09",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "24D08",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "08D13",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "04D06",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D07",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "08D12",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "06D03",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D06",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "25D05",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D09",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D04",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D16",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "14D27",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D09",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D26",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D04",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D24",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D12",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D25",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D11",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "11D01",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "11D15",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "11D02",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "11D16",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "04D01",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D02",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "18D36",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D35",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D01",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D02",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "20D06",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "20D05",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "10D34",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "20D25",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "20D00",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "20D14",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "56D02",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "56D16",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "56D07",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "56D15",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "16D18",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D19",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "91D00",
+      "SiglaSetor": "LGN"
+    },
+    {
+      "SiglaDoRoteiro": "25D38",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "16D23",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D22",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "05D08",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "08D02",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "08D03",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "05D09",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "09D16",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "09D01",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "09D11",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "09D02",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "06D02",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D05",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D16",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D15",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "22D13",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "22D16",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "22D01",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "22D08",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "10D26",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "10D13",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "10D14",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "25D17",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D18",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "18D25",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D26",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D05",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D06",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "19D43",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D41",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D42",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D44",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "46D13",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D12",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D06",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D07",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "03D10",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "02D05",
+      "SiglaSetor": "SG02C"
+    },
+    {
+      "SiglaDoRoteiro": "03D11",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "10D07",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "16D14",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D15",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "91D00",
+      "SiglaSetor": "LGN"
+    },
+    {
+      "SiglaDoRoteiro": "91D00",
+      "SiglaSetor": "LGN"
+    },
+    {
+      "SiglaDoRoteiro": "91D01",
+      "SiglaSetor": "LGN"
+    },
+    {
+      "SiglaDoRoteiro": "08D11",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "08D10",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "56D27",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "12D08",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "12D07",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "13D08",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "13D07",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "19D38",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D39",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D40",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D37",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "46D21",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "18D39",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D40",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D29",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D30",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "26D28",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D29",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D25",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D24",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "17D20",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D30",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D21",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D29",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "31D04",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "31D05",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "31D09",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "31D10",
+      "SiglaSetor": "NG31V"
+    },
+    {
+      "SiglaDoRoteiro": "55D30",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D47",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D46",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D31",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "16D12",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D21",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D13",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D20",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D38",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D16",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D17",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D39",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D36",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "42D33",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "16D37",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "42D32",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "06D09",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D18",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D08",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "06D17",
+      "SiglaSetor": "SG06L"
+    },
+    {
+      "SiglaDoRoteiro": "11D10",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "11D03",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "11D09",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "11D04",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "08D05",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "08D14",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "08D09",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "08D06",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "15D06",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D07",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D16",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D17",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "13D18",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "55D41",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D40",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "13D17",
+      "SiglaSetor": "NG13M"
+    },
+    {
+      "SiglaDoRoteiro": "20D24",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "33D31",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "17D11",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D10",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "18D21",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "17D22",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D23",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D26",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D24",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D12",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D13",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "10D04",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "15D10",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D11",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "42D30",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D09",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D31",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D08",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "24D12",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "24D04",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "24D05",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "24D11",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "09D18",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "09D19",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "04D20",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D21",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D10",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D11",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "10D21",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "56D01",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "56D08",
+      "SiglaSetor": "NG13P"
+    },
+    {
+      "SiglaDoRoteiro": "10D22",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "19D03",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D04",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D08",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D09",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "18D10",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D09",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D51",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "17D19",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D33",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D16",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D34",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "03D02",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "02D16",
+      "SiglaSetor": "SG02C"
+    },
+    {
+      "SiglaDoRoteiro": "02D16",
+      "SiglaSetor": "SG02C"
+    },
+    {
+      "SiglaDoRoteiro": "02D09",
+      "SiglaSetor": "SG02C"
+    },
+    {
+      "SiglaDoRoteiro": "03D03",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "20D20",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "02D14",
+      "SiglaSetor": "SG02C"
+    },
+    {
+      "SiglaDoRoteiro": "20D07",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "20D13",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "20D08",
+      "SiglaSetor": "NG20G"
+    },
+    {
+      "SiglaDoRoteiro": "16D11",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D06",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D10",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "16D07",
+      "SiglaSetor": "BG16F"
+    },
+    {
+      "SiglaDoRoteiro": "70D01",
+      "SiglaSetor": "ND29A"
+    },
+    {
+      "SiglaDoRoteiro": "70D01",
+      "SiglaSetor": "ND29A"
+    },
+    {
+      "SiglaDoRoteiro": "70D10",
+      "SiglaSetor": "ND29A"
+    },
+    {
+      "SiglaDoRoteiro": "42D00",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D01",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D22",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D23",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "14D31",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "22D14",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "22D07",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "22D04",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "22D03",
+      "SiglaSetor": "NG22A"
+    },
+    {
+      "SiglaDoRoteiro": "55D50",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D51",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D43",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D42",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "14D29",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "14D28",
+      "SiglaSetor": "NG14I"
+    },
+    {
+      "SiglaDoRoteiro": "15D20",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D08",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D09",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D21",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "25D01",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D10",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D02",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "25D13",
+      "SiglaSetor": "NG25F"
+    },
+    {
+      "SiglaDoRoteiro": "15D19",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D05",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D04",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "15D18",
+      "SiglaSetor": "NG15M"
+    },
+    {
+      "SiglaDoRoteiro": "46D08",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "46D09",
+      "SiglaSetor": "OG18V"
+    },
+    {
+      "SiglaDoRoteiro": "18D34",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D33",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D20",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D19",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D12",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "18D11",
+      "SiglaSetor": "OG18G"
+    },
+    {
+      "SiglaDoRoteiro": "26D39",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D34",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D34",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D38",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D35",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D35",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "17D38",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D37",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "33D13",
+      "SiglaSetor": "OG33R"
+    },
+    {
+      "SiglaDoRoteiro": "17D28",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D27",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D14",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "17D15",
+      "SiglaSetor": "OG17B"
+    },
+    {
+      "SiglaDoRoteiro": "03D04",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "03D05",
+      "SiglaSetor": "SG03R"
+    },
+    {
+      "SiglaDoRoteiro": "05D14",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "11D12",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "11D05",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "11D06",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "11D11",
+      "SiglaSetor": "NG11P"
+    },
+    {
+      "SiglaDoRoteiro": "24D01",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "24D00",
+      "SiglaSetor": "BG24B"
+    },
+    {
+      "SiglaDoRoteiro": "42D05",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D04",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D28",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "42D29",
+      "SiglaSetor": "BG16J"
+    },
+    {
+      "SiglaDoRoteiro": "21D23",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "21D10",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "21D22",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "21D11",
+      "SiglaSetor": "BG24R"
+    },
+    {
+      "SiglaDoRoteiro": "05D01",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "05D00",
+      "SiglaSetor": "SG05C"
+    },
+    {
+      "SiglaDoRoteiro": "09D08",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "09D13",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "09D03",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "09D10",
+      "SiglaSetor": "SG09V"
+    },
+    {
+      "SiglaDoRoteiro": "04D13",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "04D12",
+      "SiglaSetor": "SG04B"
+    },
+    {
+      "SiglaDoRoteiro": "08D07",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "08D04",
+      "SiglaSetor": "SG08T"
+    },
+    {
+      "SiglaDoRoteiro": "12D04",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "10D18",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "10D17",
+      "SiglaSetor": "NG10R"
+    },
+    {
+      "SiglaDoRoteiro": "12D03",
+      "SiglaSetor": "NG12I"
+    },
+    {
+      "SiglaDoRoteiro": "55D33",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D49",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D32",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "55D48",
+      "SiglaSetor": "NG15H"
+    },
+    {
+      "SiglaDoRoteiro": "19D28",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D27",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D31",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "19D26",
+      "SiglaSetor": "OG19C"
+    },
+    {
+      "SiglaDoRoteiro": "26D06",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D14",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D05",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D05",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D13",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D40",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D37",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D37",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D41",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D41",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D36",
+      "SiglaSetor": "OG26P"
+    },
+    {
+      "SiglaDoRoteiro": "26D36",
+      "SiglaSetor": "OG26P"
+    }
+  ]
