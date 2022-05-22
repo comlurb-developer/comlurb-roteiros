@@ -10,10 +10,10 @@ app.use(favicon(path.join(__dirname, 'src', 'favicon.ico')));
 app.set("port", PORT);
 
 // Serve only the static files form the dist directory
-app.use(express.static('./dist/roteiro'));
+app.use(express.static('./src/dist/roteiro'));
 
 app.get('/*', (req, res) =>
-    res.sendFile('index.html', {root: 'dist/roteiro/'}),
+    res.sendFile('index.html', {root: 'src/dist/roteiro/'}),
 );
 
 app.listen(PORT, () => {
