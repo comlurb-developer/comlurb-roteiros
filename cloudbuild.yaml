@@ -23,7 +23,7 @@ steps:
     'image',
     'deployment',
     'cadastra-roteiro',
-    'cadastra-roteiro=gcr.io/astral-host-350611/roteiros:latest'
+    'cadastra-roteiro=gcr.io/astral-host-350611/roteiros:ca920dc'
   ]
   env:
     - 'CLOUDSDK_COMPUTE_ZONE=southamerica-east1'
