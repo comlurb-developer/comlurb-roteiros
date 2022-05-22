@@ -1,8 +1,8 @@
 steps:
 
 - name: node:16
-  # entrypoint: npm
-  # args: ['--version']
+  entrypoint: npm
+  args: ['--version']
 
 # - name: node:16
 #   entrypoint: npm
