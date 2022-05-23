@@ -106,10 +106,21 @@ export class AppComponent {
       this.lista = [];
       this.spinner = true;
       this.logradouro = '';
-      this.inicialize();
+      //this.inicialize();
     });
 
   }
+
+  delLogradouroSalvo(logradouro: string) {
+    e(logradouro);
+    this.paradaservice.delete(logradouro).subscribe(() => {
+      this.logradouro = '';
+      this.getLogradouros();
+    }, err => {
+      this.openDialog(RequisitionsComponent);
+    });
+
+  };
 
   getLogradouros() {
     this.paradaGetAllSubscription = this.paradaservice.getAll(this.roteiro)

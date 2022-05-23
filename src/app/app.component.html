@@ -2,7 +2,7 @@
 
   <ul class="nav justify-content-end bg-dark" style="margin-top: 1em;">
     <li class="nav-item">
-      <p class="nav-link" style="color: green;">Usuário: {{user}}</p>
+      <p class="nav-link" style="color: aqua">Usuário: {{user}}</p>
     </li>
     <li class="nav-item">
       <a class="nav-link active" aria-current="page" href="#" (click)="logout()">logout</a>
@@ -65,7 +65,8 @@
 
     <div style="margin-top: 1rem;">
       <ul class="list-group">
-        <li class="list-group-item" *ngFor="let parada of lista">{{ parada.Title }}</li>
+        <li class="list-group-item" *ngFor="let parada of lista">{{ parada.Title }}<button type="button" class="btn btn-link"
+          (click)="delLogradouroSalvo(parada.Title)"><span style="color: green;">remover</span></button></li>
       </ul>
     </div>
 
