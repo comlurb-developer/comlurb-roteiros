@@ -24,6 +24,7 @@ import { NumeroparadaComponent } from './dialogs/numeroparada/numeroparada.compo
 import { CoordenatesComponent } from './dialogs/coordenates/coordenates.component';
 import { RequisitionsComponent } from './dialogs/requisitions/requisitions.component';
 import { environment } from 'src/environments/environment';
+import { DeleteComponent } from './dialogs/delete/delete.component';
 const clientId = environment.clientId
 
 function initializeKeycloak(keycloak: KeycloakService) {
@@ -46,7 +47,8 @@ function initializeKeycloak(keycloak: KeycloakService) {
     LinestringComponent,
     NumeroparadaComponent,
     CoordenatesComponent,
-    RequisitionsComponent
+    RequisitionsComponent,
+    DeleteComponent
   ],
   imports: [
     BrowserModule,
@@ -78,7 +80,8 @@ function initializeKeycloak(keycloak: KeycloakService) {
     LinestringComponent,
     CoordenatesComponent,
     NumeroparadaComponent,
-    RequisitionsComponent
+    RequisitionsComponent,
+    DeleteComponent
   ],
   schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })
