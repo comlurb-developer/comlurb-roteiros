@@ -15,6 +15,7 @@ import { RequisitionsComponent } from './dialogs/requisitions/requisitions.compo
 import { KeycloakService } from 'keycloak-angular';
 import { KeycloakProfile } from 'keycloak-js'
 import { Parada } from './interfaces/parada';
+import { DeleteComponent } from './dialogs/delete/delete.component';
 const e = console.log;
 const urlIcon = "http://labs.google.com/ridefinder/images/mm_20_blue.png"
 
@@ -112,15 +113,28 @@ export class AppComponent {
   }
 
   delLogradouroSalvo(logradouro: string) {
-    e(logradouro);
-    this.paradaservice.delete(logradouro).subscribe(() => {
-      this.logradouro = '';
-      this.getLogradouros();
-    }, err => {
-      this.openDialog(RequisitionsComponent);
-    });
+
+    this.openDialogDelete(DeleteComponent, logradouro);
 
   };
+
+
+  openDialogDelete(template: any, logradouro: string) {
+
+    const dialogRef = this.dialog.open(template);
+
+    dialogRef.afterClosed().subscribe(result => {
+
+      if (result) {
+        this.paradaservice.delete(logradouro).subscribe(() => {
+          this.logradouro = '';
+          this.getLogradouros();
+        }, err => {
+          this.openDialog(RequisitionsComponent);
+        });
+      }
+    });
+  }
 
   getLogradouros() {
     this.paradaGetAllSubscription = this.paradaservice.getAll(this.roteiro)
