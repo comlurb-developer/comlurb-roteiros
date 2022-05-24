@@ -17,7 +17,7 @@
             <mat-label>Código do roteiro</mat-label>
             <input type="text" name="roteiro" [(ngModel)]="roteiro" matInput [formControl]="formRoteiro"
               [matAutocomplete]="auto">
-            <mat-autocomplete #auto="matAutocomplete">
+            <mat-autocomplete #auto="matAutocomplete" (optionSelected)="onChangeRoteiro()">
               <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
                 {{option}}
               </mat-option>
@@ -46,9 +46,9 @@
     <tr>
       <td style="width: 80%; border: solid 1px">{{logradouro}}</td>
       <td style="width: 10%; border: solid 1px"><button type="button" class="btn btn-link"
-          (click)="delLogradouro()"><span style="color: red;">apagar</span></button></td>
+          (click)="delLogradouro()" [disabled]="disabled"><span style="color: red;" >apagar</span></button></td>
       <td style="width: 10%; border: solid 1px"><button type="button" class="btn btn-link"
-          (click)="confirmLogradouro()"><span style="color: green;">salvar</span></button></td>
+          (click)="confirmLogradouro()"[disabled]="disabled"><span style="color: green;">salvar</span></button></td>
     </tr>
     <tr>
   </table>
@@ -71,9 +71,4 @@
     </div>
 
   </div>
-
-
-
-
-
 </div>

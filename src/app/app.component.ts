@@ -49,6 +49,7 @@ export class AppComponent {
   logradouro: string = '';
   user: string = '';
   spinner: boolean = true;
+  disabled: boolean = true;
 
   lista: Parada[] = [];
 
@@ -92,6 +93,7 @@ export class AppComponent {
     this.paradaservice.delete(this.logradouro).subscribe(() => {
       this.logradouro = '';
       this.inicialize();
+      this.disabled = true;
     }, err => {
       this.openDialog(RequisitionsComponent);
     });
@@ -107,6 +109,7 @@ export class AppComponent {
       this.lista = [];
       this.spinner = true;
       this.logradouro = '';
+      this.disabled = true;
       //this.inicialize();
     });
 
@@ -136,6 +139,10 @@ export class AppComponent {
     });
   }
 
+  onChangeRoteiro(){
+    this.lista = [];
+  }
+
   getLogradouros() {
     this.paradaGetAllSubscription = this.paradaservice.getAll(this.roteiro)
       .subscribe(data => {
@@ -155,6 +162,7 @@ export class AppComponent {
       return;
     };
 
+    
     const LatLng = new google.maps.LatLng(latitude, longitude);
     let request = { location: LatLng }
     this.geocoder.geocode(request, (result, status) => {
@@ -208,6 +216,7 @@ export class AppComponent {
             this.map.setCenter(center);
             this.map.setZoom(18);
             this.zoomchange = 18;
+            this.disabled = false;
 
             // this.ngZone.run(() => {
             // })
